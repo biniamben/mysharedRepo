@@ -1,1 +1,2 @@
 hey i have shared my first project.
+git is the distributed version control.
